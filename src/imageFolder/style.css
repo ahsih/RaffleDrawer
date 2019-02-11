@@ -1,0 +1,23 @@
+#stopButton{
+	-fx-background-color: #FF0000;
+	-fx-border: none;
+	-fx-font: 70px "Arial";
+	-fx-padding: 0;
+}
+#pane{
+	-fx-background-image: url("true.jpg");
+	-fx-background-repeat: stretch;  
+	-fx-background-size: cover;
+}
+#startButton{
+	-fx-background-color: #FF0000;
+	-fx-font: 70px "Arial";
+	-fx-border: none;
+	-fx-padding: 0;
+}
+#backButton{
+	-fx-background-color: #FF0000;
+	-fx-font: 20px "Arial";
+	-fx-border: none;
+	-fx-padding: 0;
+}

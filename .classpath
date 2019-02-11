@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_60"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zhihao/eclipse-workspace/RaffleDrawer-NEW/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhihao/eclipse-workspace/RaffleDrawer-NEW/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhihao/eclipse-workspace/RaffleDrawer-NEW/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhihao/eclipse-workspace/RaffleDrawer-NEW/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhihao/eclipse-workspace/RaffleDrawer-NEW/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhihao/eclipse-workspace/RaffleDrawer-NEW/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhihao/eclipse-workspace/RaffleDrawer-NEW/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhihao/eclipse-workspace/RaffleDrawer-NEW/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
